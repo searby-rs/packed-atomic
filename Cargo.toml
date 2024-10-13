@@ -1,0 +1,16 @@
+[package]
+name = "packed-atomic"
+description = "get any time access to atomic values"
+authors = ["searby-rs <searbyrs@outlook.com>"]
+keywords = ["atomic"]
+license = "MIT OR Apache-2.0"
+homepage = "https://github.com/searby-rs/packed-atomic"
+repository = "https://github.com/searby-rs/packed-atomic"
+version = "1.0.0"
+edition = "2021"
+
+[features]
+std = []
+
+[dependencies]
+cfg-if = "1.0.0"
