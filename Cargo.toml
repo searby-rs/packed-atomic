@@ -6,7 +6,7 @@ keywords = ["atomic"]
 license = "MIT OR Apache-2.0"
 homepage = "https://github.com/searby-rs/packed-atomic"
 repository = "https://github.com/searby-rs/packed-atomic"
-version = "1.0.0"
+version = "1.0.1"
 edition = "2021"
 
 [features]
